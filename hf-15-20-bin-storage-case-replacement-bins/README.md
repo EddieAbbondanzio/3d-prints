@@ -17,6 +17,10 @@ If you're interested in custom bins that are wider or longer check out all the o
 <img width="512" src="https://github.com/EddieAbbondanzio/3d-prints/blob/main/hf-15-20-bin-storage-case-replacement-bins/imgs/hero.jpg">
 </p>
 
+<p align="center">
+<img width="512" src="https://github.com/EddieAbbondanzio/3d-prints/blob/main/hf-15-20-bin-storage-case-replacement-bins/imgs/render.png">
+</p>
+
 ## Print Settings
 - PLA
 - 20% infill
